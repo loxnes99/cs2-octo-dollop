@@ -1,21 +1,48 @@
-MIT License
+CS2 SKIN CHANGER 2026 🔥🎯
 
-Copyright (c) 2026 loxnes99
+Client-side cosmetic changer for Counter-Strike 2  
+Swap any weapon skin, knife, glove, sticker, agent model & more — visual only
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Features overview
+- Instant skin swaps: any finish (Fire Serpent, Dragon Lore, Printstream etc.)
+- Knife changer: Karambit, Butterfly, all patterns & wear levels
+- Glove changer: Crimson Weave, Pandora's Box, all series
+- Sticker & patch editor: position, rotate, scale (client-side)
+- Agent model swap: Elite Crew, Sir Bloody Darryl, Rezan etc.
+- Emote & lobby changer: idle poses, sprays, music kits (visual)
+- Preview mode: 3D view with lighting before applying
+- Randomizer: auto-random skin/knife/glove per match
+- Favorites: save & load custom loadouts instantly
+- Streamproof: hides visuals from OBS, Discord, screenshots
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+How it works (client-side only)
+- Pure visual modification — no server sync or inventory changes
+- No VAC / Trust Factor detection for cosmetics
+- No real value added to items — display only
+- Works on latest CS2 builds (February 2026)
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Quick start guide
+1. Extract the archive
+2. Run the .exe as administrator
+3. Launch Counter-Strike 2
+4. Press Insert to open menu
+5. Select & apply skins — enjoy the flex
+
+Supported platforms
+- Windows 10/11 (64-bit)
+- Latest Counter-Strike 2 (Steam)
+
+User notes (Feb 2026)
+"Full Dragon Lore + Karambit every game — looks premium"
+"Glove changer makes hands insane"
+"Randomizer keeps inventory fresh without boredom"
+"Preview mode saves time on bad combinations"
+
+FAQ
+Is it detected? No — client-side visuals only, VAC does not scan cosmetics.
+Menu key? Insert (toggle on/off).
+Updates? Check releases for new cases, operations & agents.
+Help? Open an issue or star the repo ⭐
+
+CS2 SKIN CHANGER 2026 • Look expensive for free 🔥  
+Flex in every lobby, brothers!
